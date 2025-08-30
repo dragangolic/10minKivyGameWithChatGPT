@@ -12,3 +12,5 @@ hud.py → display logic.
 game.py → main controller.
 
 main.py → entry point.
+
+Some changes needed, the game is not working properly.
